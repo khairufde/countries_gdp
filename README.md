@@ -9,6 +9,7 @@
 <br />
 
 <h2>Languages and Utilities Used</h2>
+
 - <b>python</b> 
 - <b>BeautifulSoup</b>
 - <b>pandas</b>
