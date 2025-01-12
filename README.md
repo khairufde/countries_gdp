@@ -1,12 +1,7 @@
 <h1>Countries by GDP ETL: Extract GDP table with BeautifulSoup, Pandas, and SQLite</h1>
 
 <h2>Description</h2>
-In this project, I demonstrate my ability to extract, transform, and load (ETL) data to analyze Countries by GDP from https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29. The project involves web scraping, transforming, loading it into an SQLite database, and answering the following questions:
-
-- <b>What is the average weight of the Pokemon by type?</b> 
-- <b>List the highest accuracy move by Pokemon type!</b>
-- <b>Count the number of moves by Pokemon and order from greatest to least!</b>
-<br />
+In this project, I demonstrate my ability to extract, transform, and load (ETL) data to analyze Countries by GDP from https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29. The project involves web scraping, transforming, loading it into an SQLite database.
 
 <h2>Languages and Utilities Used</h2>
 
