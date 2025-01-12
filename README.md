@@ -11,7 +11,7 @@
 <h2>Languages and Utilities Used</h2>
 
 - <b>python</b>
-- <b>web srapping</b>
+- <b>web scrapping</b>
 - <b>requests</b> 
 - <b>BeautifulSoup</b>
 - <b>pandas</b>
