@@ -10,9 +10,11 @@
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>python</b> 
+- <b>python</b>
+- <b>requests</b> 
 - <b>BeautifulSoup</b>
 - <b>pandas</b>
+- <b>numpy</b>
 - <b>ETL</b>
 - <b>sqlite3</b>
 - <b>sql</b>
