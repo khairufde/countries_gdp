@@ -1,4 +1,4 @@
-<h1>ETL Workflow: Extract GDP Table From <a href="https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29">Wikipedia Page</a> Using BeautifulSoup, Pandas, and SQLite</h1>
+<h1>ETL: Extract GDP Table From <a href="https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29">Wikipedia Page</a> Using BeautifulSoup, Pandas, and SQLite</h1>
 
 <h2>Description</h2>
 "In this project, I showcase my ETL (Extract, Transform, Load) skills by analyzing countries by GDP using data from this archived <a href="https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29">wikipedia page</a>. The project involves:
